@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Hakaton.Controllers.OpenAiController",
+    "Method": "GeneratePrompt",
+    "RelativePath": "api/prompt/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Hakaton.Controllers.OpenAiController\u002BGenerateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
